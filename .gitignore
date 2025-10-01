@@ -11,3 +11,4 @@ ENV/
 .venv/
 *.sqlite3
 .vscode/
+.idea/
