@@ -42,5 +42,4 @@ This repository highlights some of my analytics and data projects, showcasing sk
 ---
 
 ## 🔗 Tableau Dashboards  
-- [Ecommerce Analytics Dashboard](#) *(link to Tableau Public once published)*  
-- [Customer Churn Visuals](#) *(optional if you build one in Tableau too)*
+- [E-Commerce Analytics Dashboard](https://public.tableau.com/app/profile/eddie.grafiada/viz/E-CommerceSalesCustomerInsightsDashboard/SalesInsightsDashboard)
